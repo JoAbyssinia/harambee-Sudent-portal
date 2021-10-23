@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Harambee E-Student portal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">if you log out lose most of the personal data listed below\n
+        - lost all stored grades\n
+        - lost security pin\n
+        - all settings will reset to default</string>
+</resources>
